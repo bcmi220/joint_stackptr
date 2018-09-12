@@ -16,7 +16,7 @@ To train a Joint-POS-Stack-Pointer parser, simply run
     ./example/run_stackPtrParser_CoNLLU.sh
 Remeber to setup the paths for data and embeddings.
 
-You can train multi model in different language by
+You can train multiple model in different language by
 
     ./train.py
 
